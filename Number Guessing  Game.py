@@ -21,5 +21,3 @@ while number_of_guesses != 0:
 else:
     print("You ran out of guesses! Better luck next time!")
     quit()
-
-fstring
