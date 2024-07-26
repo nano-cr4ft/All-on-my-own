@@ -1,6 +1,3 @@
-import math
-import random
-
 correct_number = 5
 number_of_guesses = 3
 wrong_guess = 1
@@ -21,3 +18,4 @@ while number_of_guesses != 0:
 else:
     print("You ran out of guesses! Better luck next time!")
     quit()
+# Done with game
